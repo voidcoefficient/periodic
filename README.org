@@ -17,6 +17,5 @@ A terminal shell is a command-line interface that allows users to interact with 
 A kernel is the core of an operating system that manages hardware resources and enables communication between hardware and software.
 *** [[https://github.com/voidcoefficient/oxygen][oxygen]]: the userspace
 Userspace refers to the part of an operating system where user applications run, separate from the kernel, to ensure stability and security.
-Answer from Perplexity: pplx.ai/share
 *** TODO ~hydrogen~: package manager
 A package manager is a tool that automates the installation, updating, and removal of software packages in an operating system.
