@@ -1,9 +1,9 @@
-* the `periodic` operating system
+* the ~periodic~ operating system
 
-`periodic` is an operating system being built by [@voidcoefficient](https://github.com/voidcoefficient) using rust.
+~periodic~ is an operating system being built by [[https://github.com/voidcoefficient][@voidcoefficient]] using rust.
 
 ** roadmap
-a blog will be created to log the development of `periodic`.
+a blog will be created to log the development of ~periodic~.
 
 *** TODO create devlog
 
@@ -11,7 +11,7 @@ a blog will be created to log the development of `periodic`.
 
 not sure what some of these words mean? each project explains what it is and what it does.
 
-*** [`iron`](https://github.com/voidcoefficient/iron): the shell
-*** [`sulfur`](https://github.com/voidcoefficient/sulfur): the kernel
-*** [`oxygen`](https://github.com/voidcoefficient/oxygen): the userspace
+*** [[https://github.com/voidcoefficient/iron][iron]]: the shell
+*** [[https://github.com/voidcoefficient/sulfur][sulfur]]: the kernel
+*** [[https://github.com/voidcoefficient/oxygen][oxygen]]: the userspace
 *** TODO `hydrogen`: package manager
