@@ -5,13 +5,18 @@
 ** roadmap
 a blog will be created to log the development of ~periodic~.
 
-*** TODO create devlog
+*** [ ] create devlog
 
 ** child projects
 
-not sure what some of these words mean? each project explains what it is and what it does.
+these components form what is commonly known as an /operating system/
 
 *** [[https://github.com/voidcoefficient/iron][iron]]: the shell
+A terminal shell is a command-line interface that allows users to interact with an operating system by typing commands.
 *** [[https://github.com/voidcoefficient/sulfur][sulfur]]: the kernel
+A kernel is the core of an operating system that manages hardware resources and enables communication between hardware and software.
 *** [[https://github.com/voidcoefficient/oxygen][oxygen]]: the userspace
-*** TODO `hydrogen`: package manager
+Userspace refers to the part of an operating system where user applications run, separate from the kernel, to ensure stability and security.
+Answer from Perplexity: pplx.ai/share
+*** TODO ~hydrogen~: package manager
+A package manager is a tool that automates the installation, updating, and removal of software packages in an operating system.
